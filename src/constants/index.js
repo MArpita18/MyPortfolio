@@ -85,7 +85,7 @@ export const PROJECTS = [
     description:
       "Developed a personal portfolio website to display my skills and projects, featuring an interactive and responsive design using React and Tailwind CSS. The platform includes sections for personal information, project showcases, and contact forms, providing a comprehensive overview of my professional profile.",
     technologies: ["HTML", "CSS", "JavaScript", "React", "Tailwind"],
-    link: "https://github.com/MArpita18/GeminiClone"
+    link: "https://github.com/MArpita18/MyPortfolio"
   },
   {
     title: "GiftHaus",
@@ -93,7 +93,7 @@ export const PROJECTS = [
     description:
       "Built an innovative e-commerce platform for personalized gifts, GiftHaus, featuring product catalog management, shopping cart functionality, and user authentication. The site is developed using Django and DBSQLite to provide seamless and secure shopping experiences.",
     technologies: ["HTML", "CSS", "JavaScript", "BootStrap", "Django", "DBSQLite"],
-    link: "https://github.com/MArpita18/GeminiClone"
+    link: "https://github.com/MArpita18/GiftHaus"
   },
 ];
 
